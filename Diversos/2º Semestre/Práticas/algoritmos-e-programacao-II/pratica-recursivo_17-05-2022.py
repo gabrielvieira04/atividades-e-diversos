@@ -19,4 +19,5 @@ def factorial_second(n):
         print(f"O fatorial de", n, "é igual a: ",n * factorial(n-1))
 
 factorial(n)
+factorial_second(n)
 
