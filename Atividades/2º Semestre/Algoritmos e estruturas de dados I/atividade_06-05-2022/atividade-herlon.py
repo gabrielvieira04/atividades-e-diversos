@@ -1,14 +1,14 @@
 import numpy as np
 
 def menu_1():
-    print("-----Menu de opções-----")
+    print("-----Menu de opções------")
     print("(1)Mostre a matriz Original")
     print("(2)Mostre a matriz transposta")
     print("(3)Mostre a soma da diagonal principal da matriz")
     print("(4)Mostre os números pares da matriz")
     print("(5)Mostre os números impares da matriz")
     print("(0)Sair do sistema")
-    print("------------------------")
+    print("-------------------------")
 
 def option_read(m):
     print (m)
